@@ -1,6 +1,6 @@
 # Rafi_S.M
 
 # Hello, Guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# I am graduate in Electrical and Electronics engineering from GEC Barton Hill. My main areas oof interest are Robotics,Deep learning,Machine learning,computer vision etc.
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 
